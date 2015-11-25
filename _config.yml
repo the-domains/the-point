@@ -1,0 +1,28 @@
+name: The Point
+favicon: null
+layout_spectrum: 0.19079645117744803
+typography_spectrum: 0.31482854718342423
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6363458656705916
+  lightness: 0.23953646840527654
+  saturation: 0.24813984264619648
+  rhythmicContrast: 0.25471581518650055
+purpose: []
